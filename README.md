@@ -18,6 +18,5 @@ This project predicts the petrol consumption of a car based on its features.
 This project predicts whether a passenger on the Titanic survived or not based on their features.
 - Wine Quality Classification:
 This project classifies wine into different quality categories based on its features.
-Each project includes a README file that provides more detailed information about the project, including the data used, the machine learning algorithms used, and the results of the project.
 
 I hope you find these projects interesting and informative!
