@@ -4,7 +4,7 @@ Greetings! I'm thrilled to have you here in my GitHub repository, where I've cur
 
 ## Project Descriptions
 
-- Diabetic Patients Classification: This project focuses on predicting whether a patient has diabetes or not based on several medical attributes. By applying classification algorithms, I aim to build a model that can assist in early detection and intervention.
+- **Diabetic Patients Classification:** This project focuses on predicting whether a patient has diabetes or not based on several medical attributes. By applying classification algorithms, I aim to build a model that can assist in early detection and intervention.
 - Gender Prediction based on Voice: Through this project, I delve into the realm of speech analysis and gender recognition. Using voice features and machine learning algorithms, I've developed a model capable of predicting the gender of a speaker based on their voice characteristics.
 - House Price Prediction: Real estate enthusiasts will find this project intriguing. Here, I've employed regression techniques to predict the prices of houses based on various features such as location, size, and amenities. This model can assist both buyers and sellers in making informed decisions.
 - Breast Cancer Prediction: Early detection of breast cancer is crucial for effective treatment. In this project, I've built a classification model that analyzes breast cancer data to predict whether a tumor is benign or malignant, aiding in the diagnosis process. I have also performed hyperparameter tuning for better results. 
