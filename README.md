@@ -1,6 +1,6 @@
-# Welcome to My Machine Learning Playground!
+Here, I've curated a collection of small yet fascinating machine learning projects. These projects showcase my strong foundational knowledge and skills in the exciting world of ML. Each project explores different facets of machine learning, allowing me to demonstrate my proficiency in various techniques and algorithms. 
 
-Greetings! I'm thrilled to have you here in my GitHub repository, where I've curated a collection of small yet fascinating machine learning projects. These projects showcase my strong foundational knowledge and skills in the exciting world of ML. Each project explores different facets of machine learning, allowing me to demonstrate my proficiency in various techniques and algorithms.
+NOTE: All the datasets can be found on Kaggle.
 
 ## Project Descriptions
 
